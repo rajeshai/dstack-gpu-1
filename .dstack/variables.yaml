@@ -1,3 +1,4 @@
 variables:
   train:
     pgpu: 1
+    epochs: 10
